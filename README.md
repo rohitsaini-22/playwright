@@ -15,6 +15,7 @@ npx playwright test tests/payback.spec.ts --project=chromium
 
 ##To Run without headless on chrome
 yarn playwright test tests/payback.spec.ts --project=chromium --headed
+![alt text](./TestResult.png)
 
 #To run With NPM
 npx playwright test tests/payback.spec.ts --project=chromium --headed
